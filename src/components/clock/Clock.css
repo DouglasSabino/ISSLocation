@@ -1,0 +1,16 @@
+@font-face {
+    font-family: press_start;
+    src: url('../../fonts/font_press_start.ttf');
+}
+
+.footer {
+  background-color: #f0f0f0;
+  font-size: 46px;
+  text-shadow: 1px 2px 3px #fff;
+  border: 1px solid #4C3622;
+  box-shadow: 1px 3px 8px #4C3622;
+  font-family: press_start;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 0;
+}
