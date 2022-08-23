@@ -4,6 +4,7 @@ uma aplicação React que consume uma api* para localizar em tempo real a estaç
 api* = http://api.open-notify.org/iss-now.json
 
 # Ferramentas e tecnologias utilizados
+* React
 
 https://user-images.githubusercontent.com/82068742/186238114-4060c2d4-2bc5-43a3-89df-e3a850603158.mp4
 
