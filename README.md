@@ -6,8 +6,8 @@ api* = http://api.open-notify.org/iss-now.json
 # Ferramentas e tecnologias utilizados
 * React
 * Redux
-* consumo de API (Fetch)
-* component life cycle
+* Consumo de API (Fetch)
+* Component life cycle
 
 https://user-images.githubusercontent.com/82068742/186238114-4060c2d4-2bc5-43a3-89df-e3a850603158.mp4
 
