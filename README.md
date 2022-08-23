@@ -1,3 +1,8 @@
+# ISS Location
+uma aplicação React que consume uma api* para localizar em tempo real a estação espacial
+
+api* = http://api.open-notify.org/iss-now.json
+
 https://user-images.githubusercontent.com/82068742/186238114-4060c2d4-2bc5-43a3-89df-e3a850603158.mp4
 
 # Getting Started with Create React App
