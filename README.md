@@ -1,5 +1,5 @@
 # ISS Location
-uma aplicação React que consume uma api* para localizar em tempo real a estação espacial
+uma aplicação React que consume uma api* para localizar em tempo real a estação espacial, fazendo uma requisição a cada meio segundo atraves do fetch.
 
 api* = http://api.open-notify.org/iss-now.json
 
